@@ -10,3 +10,8 @@
   - Parâmetros de Inferência
   - Tratamento Básico da Saída
 
+- Interface Pública
+  - Generate
+  - Summarize
+  - Embedding
+  - Decide

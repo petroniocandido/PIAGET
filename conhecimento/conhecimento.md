@@ -10,3 +10,17 @@ b) Tipo de Embedding
 
 c) Tipo de Recuperação
   - Reuperação em 1 passo ou 2 passos (Rerank)
+
+d) Grafo de Conhecimento ?
+
+e) Campos de Metadados
+  - Documento
+  - URL
+  - Datetime
+  - Tipo
+
+f) Lista de palavras especiais associadas à um nível de alarme (PROIBIDO, RISCO, )
+
+- Interfaces
+  - Query(prompt) -> Document
+  - Store(document, metadata)
