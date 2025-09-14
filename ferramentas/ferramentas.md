@@ -8,3 +8,4 @@
 ## Atuadores
 - Enviar e-mail
 - Enviar mensagem
+- Agendar evento
