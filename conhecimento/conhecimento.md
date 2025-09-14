@@ -3,10 +3,10 @@
 O módulo de conhecimento possui dois sub-módulos:
 
 1. Base de Conhecimento
-   Consulta por similaridade ou metadados à base de conhecimento e ao Grafo de Conhecimento, que contém os relacionamentos ontológicos entre as entidades/tópicos
+   - Consulta por similaridade ou metadados à base de conhecimento e ao Grafo de Conhecimento, que contém os relacionamentos ontológicos entre as entidades/tópicos
 
 2. Ingestor de Conhecimento
-  Pré-processamento de documentos, extração de tópicos, vetorização e inserção na Base de Conhecimentos
+  - Pré-processamento de documentos, extração de tópicos, vetorização e inserção na Base de Conhecimentos
 
 Dois pontos principais precisam ser definidos aqui:
 
