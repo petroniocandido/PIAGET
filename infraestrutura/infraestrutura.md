@@ -1,5 +1,5 @@
 # Módulo de Infraestrutura
 
-- Suporte à biblioteca de Agentes/Prompting
-- Suporte à Infraestrutura de LLM
-- Suporte à serviços
+- Interface com Servidor de Inferência
+- Interface com Servidor MCP
+- Interface com SGBD

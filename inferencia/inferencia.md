@@ -10,3 +10,9 @@
   - Parâmetros de Inferência
   - Tratamento Básico da Saída
 
+- Interface Pública
+  - Generate(prompt, limit) -> Text
+  - Summarize(prompt, limit) -> Text
+  - Embedding(prompt) -> Vector
+  - Decide(prompt, options) -> Option
+  - ExtractTopics(prompt) -> List[Text]
